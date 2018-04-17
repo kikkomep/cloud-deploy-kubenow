@@ -1,0 +1,3 @@
+[submodule "KubeNow"]
+	path = KubeNow
+	url = https://github.com/kikkomep/KubeNow.git
